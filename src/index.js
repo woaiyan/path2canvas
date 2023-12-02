@@ -182,9 +182,6 @@ function drawCanvas(ctx, path) {
     let previousTruthArgs = null;
 
 
-    //开始绘制
-    ctx.beginPath();
-
     for (let i = 0; i < commands.length; i++) {
 
         let command = commands[i].command;
@@ -335,7 +332,6 @@ function drawCanvas(ctx, path) {
                     previousTruthArgs = [...startPosition];
                     startPosition = null;
                 }
-                debugger
                 break;
             }
         }
