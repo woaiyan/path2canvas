@@ -1,0 +1,22 @@
+{
+  "name": "path2canvas",
+  "version": "1.0.0",
+  "description": "svg path render to canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woaiyan/path2canvas.git"
+  },
+  "keywords": [
+    "canvas"
+  ],
+  "author": "2422400672@qq.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/woaiyan/path2canvas/issues"
+  },
+  "homepage": "https://github.com/woaiyan/path2canvas#readme"
+}
